@@ -1,3 +1,4 @@
+package ejercicio_4;
 public class ejercicio_4 {
     /* Ejercicio_4: Una empresa de camiones necesita un algoritmo para controlar el egreso de sus 30
 camiones desde la planta y la carga que transportan. Para ello, se necesita que por cada

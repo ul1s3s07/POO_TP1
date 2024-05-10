@@ -1,3 +1,4 @@
+package ejercicio_6;
 public class ejercicio_6 {
     /* Ejercicio_6: En una carrera automovilística se desea calcular cuál es el menor tiempo realizado entre
 cada uno de sus 12 competidores. Para ello, se pide un algoritmo que sea capaz de permitir

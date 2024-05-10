@@ -1,3 +1,4 @@
+package ejercicio_7;
 public class ejercicio_7 {
     /* Ejercicio_7: Se realizó un censo provincial y se desea procesar la información obtenida en dicho
 censo. De cada una de las personas censadas se tiene la siguiente información: número de

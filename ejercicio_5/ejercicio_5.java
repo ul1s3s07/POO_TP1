@@ -1,3 +1,4 @@
+package ejercicio_5;
 public class ejercicio_5 {
     /* Ejercicio_5: Un gerente de una empresa prestadora de servicios de internet necesita un algoritmo que
 permita realizar el cálculo del monto a pagar de la factura de consumo de internet de 5
