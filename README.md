@@ -1,1 +1,1 @@
-** Logic exercises in Java **
+**Logic exercises in Java**
